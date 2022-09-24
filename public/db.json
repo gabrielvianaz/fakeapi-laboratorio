@@ -1,0 +1,536 @@
+{
+  "exames": [
+    {
+      "nome": "Transaminase Glutâmico Pirúvico",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "O teste é útil na avaliação de hepatopatias. É teste sensível de lesão hepática e recomendado como teste de rastreamento de hepatite. Aumentos de TGP podem ocasionalmente serem vistos em doenças extra-hepáticas, como miopatias. Mas outras enzimas como CPK, LDH, aldolase e TGO podem definir o estado de miopatias. A TGP é menos sensível que a TGO para avaliação de hepatopatia alcoólica.",
+      "id": 1
+    },
+    {
+      "nome": "Sódio",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Exame útil na avaliação do equilíbrio hidroeletrolítico. A hipernatremia ocorre na desidratação hipertônica, no diabetes insipidus, em comas hiperosmolares, entre outras situações. A hiponatremia pode ocorrer na síndrome nefrótica, insuficiência cardíaca, desidratação hipotônica, secreção inapropriada de hormônio antidiurético, em neuropatias com perda de sódio e em estados de hipoadrenalismo.",
+      "id": 2
+    },
+    {
+      "nome": "Lípides Totais",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "A dosagem de lípides totais, isoladamente, é de escasso valor diagnóstico uma vez que seus níveis podem estar normais na presença de frações lipídicas alteradas.",
+      "id": 3
+    },
+    {
+      "nome": "LDL - Colesterol",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "As lipoproteínas de baixa densidade (“Low Density Lipoproteins”) são as principais proteí(nas de transporte do colesterol e a determinação da fração do colesterol ligado às mesmas (LDL-Colesterot) é útil na avaliação do risco de doença coronariana. A relação entre doença aterosclerótica coronariana e níveis de LDL-Colesterol é significativa e direta. Seus níveis também se encontram elevados na síndrome nefrótica, hipotiroidisrno, ictéricia obstrutiva.",
+      "id": 4
+    },
+    {
+      "nome": "Colesterol Total",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Exame útil na avaliação de risco de aterosclerose. É aumentado na hipercolesterolemia primária, e também em síndrome nefrótica, hipotiroidismo, diabetes mellitus, cirrose biliar primária, hipoalbuminemia. Níveis baixos podem ser vistos na desnutrição, hipertiroidismo. O uso mais freqüente é na avaliação de risco de doença coronariana; habitualmente níveis elevados se associam com maior risco de aterosclerose.",
+      "id": 5
+    },
+    {
+      "nome": "Gamaglutamil Transferase",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "O teste é útil na avaliação das hepatopatias agudas e crônicas, estando a atividade enzimática elevada nos quadros de colesterol intra ou extra-hepática. Os níveis de gama-GT também se elevam na doença hepática alcoólica aguda ou crônica, e nas neoplasias hepáticas primárias ou metastáticas.",
+      "id": 6
+    },
+    {
+      "nome": "Cloro",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Exame útil na avaliação de distúrbios do equilíbrio hidroeletrolftico e ácido-básico. Aumenta nas desidratações hipertónicas, em certas acidoses tubulares renais, em diarréias com grande perda de bicarbonato, na intoxicação por salicilatos, no hiperparatiroidismo primário. Diminui quando há vômitos prolongados, aspiração gástrica, nefrite com perda de sal, acidose metabólica, insuficiência da supra-renal, porfia intermitente aguda ou secreção inapropriada de hormônio anti-diurético.",
+      "id": 7
+    },
+    {
+      "nome": "Ácido Úrico",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "A determinação é útil no diagnóstico das hiperuricemias, como as encontradas na gota e na calculose e nefropatia úricas, na insuficiência renal, em neoplasias, leucemias, linfomas, mieloma, policitemia, toxemia da gravidez, psoríase, glicogenose tipo I. Associa-se com hiperlipidemia, obesidade, diabetes, ingestão de álcool, acromegalia, sarcoidose e hipertensão. Encontra-se diminuido em situações como: síndrome de Fanconi, doença de Wilson, secreção inapropriada de hormônio anti-diurético; diminui ainda sob efeito de drogas como allopurinol, aspirina em altas doses, contrastes radiológicos, altas doses de vitamina C.",
+      "id": 8
+    },
+    {
+      "nome": "Triglicérides",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Resultados anormais são encontrados quando existe má digestão e/ou má absorção de gorduras.",
+      "id": 9
+    },
+    {
+      "nome": "Curva Glicêmica",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Estado de tolerância à glicose diminuída é definido pelo encontro de valores de glicemia aos 120 minutos entre 140 e 200 mg/dL e algum valor entre O e 2 horas superior ou igual a 200 mg/dL. O teste é útil no diagnóstico do diabetes mellitus em que o valor da glicemia aos 120 minutos é superior a 200 mg/dL e encontramos um valor entre O e 2 horas igual ou superior a 200 mg/dL. As curvas glicêmicas prolongadas (4 e 5 horas) são utilizadas no diagnóstico das hipoglicemias funcionais.",
+      "id": 10
+    },
+    {
+      "nome": "Creatinina",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "Exame útil na avaliação da função renal. Aumenta na medida em que o ritmo de filtração glomerular diminui. De forma grosseira, porém clinicamente útil, pode-se imaginar que reduções de filtração glomerular de 50% correspondem a uma duplicação do nível sérico de creatinina. Como o aumento do nível sério demanda um certo tempo, este raciocínio não pode ser aplicado a reduções agudas da filtração glomerular. Sofre menos influência da dieta do que a uréia, e neste aspecto é melhor índice de função renal do que esta última.",
+      "id": 11
+    },
+    {
+      "nome": "Ferro",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "O teste é útil na avaliação das anemias hipocrônicas microcíticas. No entanto, sua determinação isolada é sujeita a resultados falsos (tanto positivos quanto negativos). Para uma melhor avaliação do metabolismo do ferro há a necessidade de que sua determinação no soro se faça acompanhar também da determinação de siderofilina e de grau de saturação. A determinação de ferritina completa o estudo, sendo índice sensível de depleção ou sobrecarga de ferro nos tecidos corporais. Ferro baixo é encontrado em: perdas sanguíneas, dieta inadequada, doenças inflamatórias crônicas, neoplasias, desnutrição, síndrome nefrótica. Na anemia perniciosa logo após a administração de vitamina B12 ocorre consumo e redução dos níveis de ferro. Ferro aumentado pode ser encontrado em: terapêutica com ferro, hemossiderose, anemias hemolíticas, hepatite aguda, necrose hepática aguda, hemocromatose.",
+      "id": 12
+    },
+    {
+      "nome": "Amilase",
+      "setor": "Bioquímica",
+      "material": "Soro",
+      "intepretacao": "A determinação no soro é útil no diagnóstico de pancreatites e parotidites. Aumentos são vistos também em infarto ou perfuração intestinal, peritonite, gravidez ectópica, apendicite, doenças de vias biliares, cetoacidose diabética, alguns tumores pulmonares ou ovarianos, traumas, queimaduras. Na insuficiência renal há aumentos, mas raramente chegando a níveis 3 vezes superiores ao normal. Valores elevados no líquido acético ocorrem em pancreatites e perfurações intestinais e no líquido pleural em perfurações do esôfago ou na pancreatite com formação de fístula.",
+      "id": 13
+    },
+    {
+      "nome": "Hemograma",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "Exame útil na avaliação de anemias, leucemias, infecções e inflamações. Podem ser consideradas indicações de investigação mais pormenorizada: hemoglobina abaixo de 10 ou acima de 20 g/dL, VCM acima de 100 ou abaixo de 80, presença de hemácias falcizadas, esferócitos, policromasia significativa, presença de esquizócitos, dacriócitos, “target-cells” ou presença de eritrobtastos (exceto no recém-nascido); leucócitos acima de 15.000 ou abaixo de 3.000/mm, eosinofilia acima de 400/mm, monocitose acima de 1000/mm-, neutrófilos hipersegmentados, neutrófilos agranulares. evidente desvio para formas jovens, presença de caracteres tóxico-degenerativos e linfócitos atípicos.",
+      "id": 14
+    },
+    {
+      "nome": "Hemossedimentação",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "A velocidade de hernossedimentação está aumentada nos processos infecciosos, inflamatórios e neoplásicos. Altera-se também nas hiperproteinemias, hiperfibrinogenemias e gravidez. Na síndrome nefrótica descompensada altera-se em função da disproteinemia. É um exame inespecífico porém bastante sensível no rastreamento dos processos acima citados, e como controle de tratamento de determinadas patologias (tuberculose, febre reumática, doenças inflamatórias intestinais e outras).",
+      "id": 15
+    },
+    {
+      "nome": "Fibrinogênio",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "Exame útil no diagnóstico diferencial das coagulopatias. Ocorre diminuição do fibrinogênio nos pacientes com coagulo patia de consumo (ex. Ci VD}, na hipofibrinogenemia congênita e na insufici0ncia hepática. O fibrinogênio também pode estar diminuído pela presença de fibrinolisinas circulantes, o que pode ocorrer em pós-operatórios é e cirurgias extensas e em neoplasias disseminadas. Podemos encontrar níveis aumentados de fibrinogênio em processos reacionais. É um dos mais importantes fatores plasmáticos relacionados com a velocidade de hemossedimentação. O fibrinogênio pode estar aumentado nas seguintes situações: infecção, processos inflamatórios, neoplasias, pós-operat6rios, síndrome nefrótica e gravidez.",
+      "id": 16
+    },
+    {
+      "nome": "Leucócitos",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "Exame útil no controle de leucopenias que cursam com o uso de determinadas drogas, corno imunossupressores, quimioterápicos, etc.",
+      "id": 17
+    },
+    {
+      "nome": "Coagulograma",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "O teste é útil no diagnóstico de coagulopatias, sendo particularmente utilizado em avaliações pré-operatórias (vide comentários de TS, TC, contagem de plaquetas, TP e TTP).",
+      "id": 18
+    },
+    {
+      "nome": "Plaquetas",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "São causas de aumento no número de plaquetas: doenças mieloproliíerativas (policitemia vera, LMC, mielofibrose com metaplasia mielóide), doenças inflamatórias (febre reumática, artrite reumat6ide, colite ulcerativa, etc.), doenças malignas {carcinomas, doença de Hodgkin e outros linfomas). As plaquetopenias podem ser hereditárias (síndrome de Wiskott-Aldrich, síndrome de Bernard-Soulier, Síndrome de Fanconi) ou adquiridas (PTI, secundária a doenças auto-imunes, anemia aplástica, anemias megaloblásticas, coagulopatias de consumo, etc).",
+      "id": 19
+    },
+    {
+      "nome": "Reticulócitos",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "Exame útil no diagnóstico diferencial das anemias. Os reticulócitos se encontram aumentados nas anemias hemolíticas, devido a um aumento da eritropoiese, nas anemias por perda de sangue (antes de se desenvolver deficiência de ferro) e no início de terapêutica específica de algumas anemias (deficiência de ferro ou anemia megaloblástica). Encontram-se diminuídos nas anemias degenerativas (anemias aplásicas).",
+      "id": 20
+    },
+    {
+      "nome": "Retração do Coágulo",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "A retração do coágulo é usada como índice indireto de avaliação do número e da atividade plaquetária. Está diminuída quando o número de plaquetas for inferior a 100.000/mm nas alterações qualitativas das plaquetas (alteração da adesividade e/ou do mecanismo contrátil), e nível diminuído do fibrinogênia.",
+      "id": 21
+    },
+    {
+      "nome": "Tempo de Protombina",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "O teste é útil na avaliação da via extrínseca da coagulação. Está prolongado nas deficiências de fatores Vll, V, X, fl (protrombina), I e na presença de alguns tipos de Anticoagulantes circulantes. Ocorre prolongamento do TP nas doenças parenquimatosas hepáticas e nas desordens do metabolismo de vitamina K (deficiência de síntese ou absorção de vitamina K ou tratamento anticoagulante com dicumanicos).",
+      "id": 22
+    },
+    {
+      "nome": "Tempo de Tromboplastina Parcial",
+      "setor": "Hematologia",
+      "material": "Sangue Total",
+      "intepretacao": "O teste é útil na avaliação da via intrínseca da coagulaç5o, encontrando-se alterado nes deficiências de um ou mais fatores deste sistema (I, II, V, VIII, IX, X, XI e XII), ou terapêutica com heperina, ou na presença de seticoagulantes espontâneos circulantes fex. Lupus eritematoso).",
+      "id": 23
+    },
+    {
+      "nome": "Tripsina nas Fezes",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O teste é útil no diagnostico da insuficiência pancreática exócrina. A Tripsina está sempre presente nas fezes com qualquer regime alimentar,. em situação normal e pode aumentar nas fezes diarreicas e após o uso de laxantes. Uma reação negativa, que significa ausência de atividade, pode indicar insuficiência pancreática (pancreatite crônica, fibrose cística do pâncreas, carcinoma do pâncreas e outras).",
+      "id": 24
+    },
+    {
+      "nome": "pH Fecal",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O teste é útil no diagnóstico das diarréias por deficiência de dissacaridases, situação em que o açúcar não absorvido (lactose, sacarose), sob ação bacteriana, se transforma em ácido láctico, reduzindo o pH fecal.",
+      "id": 25
+    },
+    {
+      "nome": "Parasitológico nas Fezes",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O exame é útil no diagnóstico das parasitoses intestinais e tem como objetivo o encontro de trofozoitas ou cistos de protozoários e ovos ou larvas de helmintos, lembrando-se que os ovos de Taenia e Enterobius raramente aparecem nas fezes.",
+      "id": 26
+    },
+    {
+      "nome": "Parasitológico com Contagem de Ovos",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "Teste útil no diagnóstico das parasitoses causadas por Schistosonia mansoni e Ascaris lumbricoides. A contagem de ovos é também útil no controle terapêutico das parasitoses, principalmente da esquistossomose.",
+      "id": 27
+    },
+    {
+      "nome": "Gordura nas Fezes",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O teste é útil no diagnóstico das esteatorréias; é um exame qualitativo. A pesquisa é positiva em patologias que provocam deficiência da digestão e/ou absorção de gorduras: doenças pancreáticas crônicas, doença celíaca, enteropatias bacterianas, virais ou parasitárias, amiloidose e outras.",
+      "id": 28
+    },
+    {
+      "nome": "Vermes Adultos",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O teste é útil no diagnóstico diferencial das parasitoses, pois há eventualidades em que o exame Parasitológico de fezes é negativo e o indivíduo pode relatar eliminação de vermes, como na enterobiose e no caso da eliminação de um Ascaris macho. Resíduos alimentares podem eventualmente ser confundidos pelo paciente com vermes, sobretudo com Oxiúros.",
+      "id": 29
+    },
+    {
+      "nome": "Tênia",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "O teste é útil no diagnóstico diferencial das parasitoses, pois há eventualidades em que o exame Parasitológico de fezes é negativo e o indivíduo pode relatar eliminação de vermes, como na enterobiose e no caso da eliminação de um Ascaris macho. Resíduos alimentares podem eventualmente ser confundidos pelo paciente com vermes, sobretudo com Oxiúros.",
+      "id": 30
+    },
+    {
+      "nome": "Hemácias e Leucócitos nas Fezes",
+      "setor": "Parasitologia",
+      "material": "Fezes",
+      "intepretacao": "A presença de grande quantidade de piócitos associada ou não à presença de eritrócitos sugere infecção bacteriana, viral, ou retocotite ulcerativa. Nos processos parasitários o aparecimento de leucócitos é sempre em menor quantidade.",
+      "id": 31
+    },
+    {
+      "nome": "Micológico Direto",
+      "setor": "Microbiologia",
+      "material": "Raspado de Unha",
+      "intepretacao": "Prova útil no diagnóstico das afecções causadas por fungos, quer dermatológicas, quer sistêmicas.",
+      "id": 32
+    },
+    {
+      "nome": "Cultura de Líquor",
+      "setor": "Microbiologia",
+      "material": "Líquor",
+      "intepretacao": "Exame útil no diagnóstico das meningites bacterianas os agentes causadores deste tipo de infecção são bactérias que em geral podem ser identificadas rotineiramente. Se houver suspeita de anaeróbios isto deverá ser especificado, embora o isolamento de germes anaeróbios do líquor, em meningite, seja extremamente raro.",
+      "id": 33
+    },
+    {
+      "nome": "Pesquisa de Bacilo de Koch",
+      "setor": "Microbiologia",
+      "material": "Escarro",
+      "intepretacao": "O exame é útil no diagnóstico da tuberculose, sobretudo nas formas pulmonares, caso em que a pesquisa pode ser feita em escarro lavado brônquio ou lavado gástrico. No caso da pesquisa em urina, especial cuidado deve ser tomado ri;, intc;r pretac:ão dois resultado, pois há micobactérias não patogênicas que com alguma freqüência podem ser encontrada, não podendo ser diferenciadas das micobactérias patogênicas a não ser através de cultura e testes bioquímicos. Exame útil! também no diagnóstico de infecções por micobactérias ern outras localizações afetando serosas (peritonial, pleisraì).",
+      "id": 34
+    },
+    {
+      "nome": "Cultura para Micoplasma",
+      "setor": "Microbiologia",
+      "material": "Secreção",
+      "intepretacao": "Exame útil na avaliação diagnóstica das uretrites e vaginites. Nos homens o Mycoplasma é um dos responsáveis por uretrites não gonocócicas; no caso de pneumonias, pesquisar M. pneumoniae.",
+      "id": 35
+    },
+    {
+      "nome": "Coprocultura",
+      "setor": "Microbiologia",
+      "material": "Fezes",
+      "intepretacao": "A tinaiidade da cultura de fezes é identificar germes patogênicos causadores de quadros dc diarréia aguda ou crônica. São considerados germes enteropatogênicos mais freqüentes: E.coli invasora, E.coli enteropatogênica, enterotoxigênica e enterohemorrágica, Salmonella. Shigella, Campylobacter, Yersínia e Aeromonas.",
+      "id": 36
+    },
+    {
+      "nome": "Urocultura",
+      "setor": "Microbiologia",
+      "material": "Urina",
+      "intepretacao": "O exame é útil no diagnóstico etiológico das infecções do trato urinário. A presença de qualquer germe, dependendo da quantidade e presença de sintomas clínicos, indica infecção.",
+      "id": 37
+    },
+    {
+      "nome": "Tiroglobulina",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A tiroglobulina é uma glicoproteína produzida pelas células acinares tiroidianas sendo o principal componente do colóide dos folículos tiroidianos. Os seus níveis séricos variam com o estado funcional da tiróide, estando elevados nas tireoidites, carcinomas de tiróide, hipertiroidismo ou mesmo ap6s palpação vigorosa dessa glândula. Sua principal utilidade é no seguimento de carcinomas operados da tiróide, especialmente dos tipos papilífero, folicular e misto papilífero-folicutar.",
+      "id": 38
+    },
+    {
+      "nome": "Testosterona Livre",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O efeito metabólico da testosterona é realizado pela fração livre. que não sofre influência dos níveis de proteína carregadora circulante (SHBG). É útil no diagnóstico do hirsutismo no sexo feminino e do hipogonadisrno no sexo masculino.",
+      "id": 39
+    },
+    {
+      "nome": "T4",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "T4 é a sigla para tiroxina, também chamada de tetraiodotironina. Trata-se de um hormônio que é produzido pela tireóide e que atua na regulação de diferentes processos do corpo humano, como a regulação da pressão arterial e de outros aspectos do metabolismo do paciente.",
+      "id": 40
+    },
+    {
+      "nome": "T3",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A concentração de T3 é cerca de li70 daquela do T4 e ele circula também ligado a proteínas (TBG, TBPA e albumina). Apenas 1!3 do T3 total é produzido pela tiróide; os 2/3 restantes são produzidos a Partir do T4 nos tecidos periféricos. É importante no diagnóstico de hipertiroidismo mas está normal em 30% dos hipotiroidianos. Pode, como o T4, estar alterado, embora em menor proporção, pelas alterações da TBG. Pode estar diminuído em algumas situações como: doenças graves em geral, pós-operatório, jejum, uso de pro-Panol, amiodarona ou corticóides.",
+      "id": 41
+    },
+    {
+      "nome": "Progesterona",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A progesterona é um esteróide secretado pelas gônadas e adrenais, atingindo, durante a fase lútea do ciclo menstrual, valores 10 a 20 vezes mais elevados que os da fase folicular. Durante a gestação, grandes quantidades deste hormônio são produzidas pela placenta. A principal aplicação clínica da determinação deste hormônio é no diagnóstico de ciclos anovulatórios, onde não há formação de corpo lúteo e, portanto, os níveis de progesterona permanecem baixos durante todo o ciclo.",
+      "id": 42
+    },
+    {
+      "nome": "Hormônio Luteinizante",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O hormônio luteizante é um hormônio glicoprotéico produzido pela hipófise. É secretado de forma pulsátil (cada 10 a 20 minutos), podendo oscilar durante o dia; pode ser dosado em “pools” de amostras colhidas durante algum tempo. No homem estimula as células de Leydig dos testículos, com conseqüente secreção de testosterona; na mulher induz à ovulação. Sua determinação está indicada no diagnóstico da ovulação, no hipogonadismo primário e na puberdade precoce.",
+      "id": 43
+    },
+    {
+      "nome": "Ferritina",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A ferritina é a principal proteína do sistema retículo-endotelial responsável pelo armazenamento de ferro, havendo uma relação direta entre o nível sérico e a quantidade de ferro armazenado. Tem indicação no diagnóstico diferencial das anemias e no acompanhamento das alterações de armazenamento de ferro.",
+      "id": 44
+    },
+    {
+      "nome": "Hormônio do Crescimento",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O hormônio de crescimento é um polipeptídeo produzido pela hipófise anterior. Atua sobre o crescimento, estimulando o fígado a produzir somatomedinas. Nos casos de déficit de crescimento deve ser feito sempre um teste de estimulo com exercício, insulina, glucagon, L-Dopa ou clonidina. Está também indicado no diagnóstico e acompanhamento dos pacientes com acromegalia e gigantismo.",
+      "id": 45
+    },
+    {
+      "nome": "Anticorpos Anti-Hormônio de Crescimento",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O teste é útil no acompanhamento de pacientes com déficit de crescimento tratados com hormônio de crescimento, onde a presença de anticorpos pode impedir a ação do medicamento.",
+      "id": 46
+    },
+    {
+      "nome": "25-OH-Vitamina D",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O exame é útil para o diagnóstico de carência iraquitismo ou de intoxicação por vitamina D. Apesar de ser um metabólito intermediário, desde que o hormônio mais ativo é a 1,25 (OH) 2-D, 6 o que melhor reflete as condições clínicas de carência ou intoxicação.",
+      "id": 47
+    },
+    {
+      "nome": "T3 Reverso",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O T3 reverso é formado um pouco pela tiróide e a maior parte pela metabolização periférica do 74, não apresentando função biológica conhecida. Não oferece utilidade no diagnóstico de hipo ou hipertiroidismo. Sua determinação está indicada em pacientes clinicamente graves, onde o T3 e o T4 podem estar diminuídos e o rT3 aumentado. Tem sido utilizado para avaliar o efeito terapêutico da amiodarona, que aumenta T4 e rT3 e diminui T3.",
+      "id": 48
+    },
+    {
+      "nome": "Prolactina",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A prolactina é um hormônio polipeptídeo produzido na hipófise anterior. Sua dosagem está indicada no diagnóstico de tumores hipofisários (prolactinomas), na síndrome de galactorréia e/ou amenorrdia, impotência, esterilidade e na avaliação da reserva hipofisária de prolactina. Nas hiperprolactinemias tumorais os valores geralmente são superiores a 100 pg/L.",
+      "id": 49
+    },
+    {
+      "nome": "Insulina",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A insulina é um hormônio peptídeo sintetizado e secretado pelas células beta das ilhotas de Langerhans do pâncreas; sua secreção é controlada pelos níveis de glicemia, estímulos nervosos e hormonais. Uma secreção insulínica excessiva resulta em hipoglicemia, como nos insulinomas, onde encontram-se valores de insulina superiores a 10 pUI/mL em presença de hipoglicemia (glicemia inferior a 50 mg/dL) durante jejum prolongado, em geral com uma relação insulina/glicemia superior a 0,3. Existem outras condições que levam a hiperinsulinismo, sem hipoglicemia, como a obesidade e a acantosis nigricans.",
+      "id": 50
+    },
+    {
+      "nome": "Estradiol",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O estradiol é o estrógeno mais potente produzido pelas gônadas, refletindo de maneira confiável a atividade estrogênica. Nos homens é um produto de secreção das células de Leydig e da conversão periférica de testosterona. Nas mulheres é produto da secreção folicular. Sua determinação está indicada no estudo da função estrogênica ou folicular, e na propedêutica da puberdade precoce e no diagnóstico de tumores feminilizantes no homem.",
+      "id": 51
+    },
+    {
+      "nome": "Cortisol",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "O cortisol é o principal glicocorticóide produzido pelas adrenais no homem. Obedece a um ritmo circadiano, sendo mais elevado pela manhã e mais baixo à noite. Sua determinação está indicada no diagnóstico de hiperfunção da adrenal (síndrome de Cushing), onde o teste de depressão com dexametasona é bastante sensível e na hipofunção adrenal primária (Addison) ou secundária, onde é útil o teste de estímulo com ACTN.",
+      "id": 52
+    },
+    {
+      "nome": "17-Alfa-Hidroxiprogesterona",
+      "setor": "Endocrinologia",
+      "material": "Soro",
+      "intepretacao": "A 17-alfa-hidroxiprogesterona é um esteróide secretado pela adrenal e gônadas. A principal indicação clinica para sua dosagem é no diagnóstico da deficiência da 21-hidroxitase, que é o defeito de síntese adrenal mais comum. Nesta entidade, níveis de 17-alfa-hidroxiprogesterona acima de 10.000 mg/dL são encontrados com freqüência. A resposta da 17-alfa ao ACTH pode ser útil no diagnóstico das formas tardias do defeito, que apresentam resposta exagerada. No seguimento destes pacientes a dosagem de androstenediona e testosterona apresentam maior utilidade, já que a 17-alfa-hidroxiprogesterona sofre oscilações rápidas com a terapia. No ciclo menstrual os níveis são baixos na fase folicular, aumentando na ovulação e na fase lútea.",
+      "id": 53
+    }
+  ],
+  "convenios": [
+    {
+      "nome": "Amil",
+      "img": "assets/convenios/Amil.png",
+      "id": 1
+    },
+    {
+      "nome": "Sulamerica",
+      "img": "assets/convenios/Sulamerica.png",
+      "id": 2
+    },
+    {
+      "nome": "Bradesco Saúde",
+      "img": "assets/convenios/BradescoSaude.png",
+      "id": 3
+    },
+    {
+      "nome": "Unimed",
+      "img": "assets/convenios/Unimed.png",
+      "id": 4
+    },
+    {
+      "nome": "Porto Seguro",
+      "img": "assets/convenios/PortoSeguro.png",
+      "id": 5
+    },
+    {
+      "nome": "Saúde Caixa",
+      "img": "assets/convenios/SaudeCaixa.png",
+      "id": 6
+    },
+    {
+      "nome": "ASFEB",
+      "img": "assets/convenios/ASFEB.png",
+      "id": 7
+    },
+    {
+      "nome": "Prevent Senior",
+      "img": "assets/convenios/PreventSenior.png",
+      "id": 8
+    },
+    {
+      "nome": "Planserv",
+      "img": "assets/convenios/Planserv.png",
+      "id": 9
+    },
+    {
+      "nome": "União Médica",
+      "img": "assets/convenios/UniaoMedica.png",
+      "id": 10
+    }
+  ],
+  "servicos": [
+    {
+      "nome": "Coleta Domiciliar",
+      "descricao": "Agende sua coleta e iremos até você. Seja atendido no conforto da sua casa, trabalho ou onde preferir.",
+      "img": "assets/home/domiciliar.png",
+      "id": 1
+    },
+    {
+      "nome": "Exames Toxicológicos",
+      "descricao": "Somos uma clínica credenciada do Detran para realização de exames toxicológicos. Além disso, também realizamos exames toxicológicos para concursos públicos.",
+      "img": "assets/home/toxicologico.png",
+      "id": 2
+    },
+    {
+      "nome": "Atendimento Corporativo",
+      "descricao": "Possuímos uma equipe especializada no atendimento corporativo, realizando coletas na sua empresa ou em uma de nossas unidades.",
+      "img": "assets/home/corporativo.png",
+      "id": 3
+    },
+    {
+      "nome": "Exames Genéticos",
+      "descricao": "Através de exames avançados, fazemos a investigação do DNA do paciente, proporcionando assertividade no diagnóstico e tratamento de doenças raras e hereditárias.",
+      "img": "assets/home/geneticos.png",
+      "id": 4
+    }
+  ],
+  "unidades": [
+    {
+      "nome": "Matriz",
+      "endereco": "Av. Régis Pacheco, 534, Centro, Vitória da Conquista/BA",
+      "telefone": "(77) 3421-1504",
+      "whatsapp": "(77) 99125-1373",
+      "horarioSegSex": "das 06:30 às 17:30",
+      "horarioSab": "das 06:30 às 12:00",
+      "img": "assets/unidades/matriz.png",
+      "id": 1
+    },
+    {
+      "nome": "Av. Otávio Santos",
+      "endereco": "Av. Otávio Santos, 310, Recreio, Vitória da Conquista/BA",
+      "telefone": "(77) 3421-1504",
+      "whatsapp": "(77) 99125-1373",
+      "horarioSegSex": "das 07:00 às 16:00",
+      "horarioSab": "fechado",
+      "img": "assets/unidades/otaviosantos.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Av. Olívia Flores",
+      "endereco": "Av. Olívia Flores, 128, Candeias, Vitória da Conquista/BA",
+      "telefone": "(77) 3421-1504",
+      "whatsapp": "(77) 99125-1373",
+      "horarioSegSex": "das 06:30 às 17:00",
+      "horarioSab": "das 07:00 às 11:30",
+      "img": "assets/unidades/oliviaflores.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Av. Frei Benjamin",
+      "endereco": "Av. Frei Benjamin, 239, Bairro Brasil, Vitória da Conquista/BA",
+      "telefone": "(77) 3421-1504",
+      "whatsapp": "(77) 99125-1373",
+      "horarioSegSex": "das 06:30 às 17:30",
+      "horarioSab": "das 06:30 às 12:00",
+      "img": "assets/unidades/freibenjamin.jpg",
+      "id": 4
+    }
+  ],
+  "corpoClinico": [
+    {
+      "nome": "Dr. João Silva",
+      "descricao": "Graduado em Farmácia pela Universidade Federal da Bahia (UFBA). Especialista em Microbiologia.",
+      "img": "assets/sobre/dr1.png",
+      "id": 1
+    },
+    {
+      "nome": "Dr.ª Maria Santos",
+      "descricao": "Graduada em Biomedicina pela Universidade Estadual de Santa Cruz (UESC). Especialista em Hematologia.",
+      "img": "assets/sobre/dr2.png",
+      "id": 2
+    },
+    {
+      "nome": "Dr. Márcio Santana",
+      "descricao": "Graduado em Farmácia pela Universidade do  Estado da Bahia (UNEB).  Mestre em Bioquímica e Biologia Molecular.",
+      "img": "assets/sobre/dr3.png",
+      "id": 3
+    }
+  ],
+  "certificacoes": [
+    {
+      "nome": "ISO 17025",
+      "descricao": "Somos detentores da ISO 17025, certificado que nos garante exatidão nos resultados, método confiável e uma equipe competente.",
+      "img": "assets/sobre/iso.png",
+      "id": 1
+    },
+    {
+      "nome": "Excelência Laboratorial",
+      "descricao": "Certificado concedido pelo PNCQ (Programa Nacional de Controle de Qualidade) na categoria Diamante.",
+      "img": "assets/sobre/pncq.png",
+      "id": 2
+    },
+    {
+      "nome": "PALC",
+      "descricao": "Programa de Acreditação de Laboratórios Clínicos estabelecido pela Sociedade Brasileira de Patalogia Clínica. Analisa se os serviços estão dentro dos requisitos e normas estabelecidas.",
+      "img": "assets/sobre/palc.png",
+      "id": 3
+    }
+  ],
+  "orcamentos": []
+}
