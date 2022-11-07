@@ -496,19 +496,19 @@
     {
       "nome": "Dr. João Silva",
       "descricao": "Graduado em Farmácia pela Universidade Federal da Bahia (UFBA). Especialista em Microbiologia.",
-      "img": "assets/sobre/dr1.png",
+      "img": "assets/sobre/corpoclinico/dr1.png",
       "id": 1
     },
     {
       "nome": "Dr.ª Maria Santos",
       "descricao": "Graduada em Biomedicina pela Universidade Estadual de Santa Cruz (UESC). Especialista em Hematologia.",
-      "img": "assets/sobre/dr2.png",
+      "img": "assets/sobre/corpoclinico/dr2.png",
       "id": 2
     },
     {
       "nome": "Dr. Márcio Santana",
       "descricao": "Graduado em Farmácia pela Universidade do  Estado da Bahia (UNEB).  Mestre em Bioquímica e Biologia Molecular.",
-      "img": "assets/sobre/dr3.png",
+      "img": "assets/sobre/corpoclinico/dr3.png",
       "id": 3
     }
   ],
